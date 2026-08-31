@@ -1,0 +1,21 @@
+{
+  "mounika": {
+    "profile": {
+      "name": "Mounika Yella",
+      "subtitle": "Lead Automation Engineer",
+      "email": "mounikayella1798@gmail.com",
+      "phone": "+1 (469) 269-0429",
+      "location": "Dallas, USA",
+      "linkedin": "https://www.linkedin.com/in/mounika",
+      "education": [
+        {
+          "degree": "Master of Science",
+          "school": "USA University",
+          "location": "USA"
+        }
+      ],
+      "certs": []
+    },
+    "text": "[PROFESSIONAL SUMMARY]\nLead Automation Engineer with 4+ years of experience supporting automation system validation, scenario testing, and process verification across manufacturing, life sciences, and EPC industrial environments. Proficient in Allen-Bradley ControlLogix, Siemens TIA Portal, and Ignition Perspective automation platforms, with hands-on execution of scenario-based testing, control logic validation, and multi-discipline project coordination. Delivers end-to-end automation project support from requirements definition through commissioning sign-off across concurrent production deployments. Seeking to apply industrial automation expertise and process optimization experience to drive simulation-driven manufacturing improvements at Celestica.\n\n[TECHNICAL SKILLS]\nCore Automation & Process Validation: Functional testing, scenario testing, integration testing, system validation, UAT, FAT (Factory Acceptance Test), SAT (Site Acceptance Test), smoke testing, regression testing, black-box testing, exploratory testing.\nAutomation Tools & Scripting: Python test scripting, Pytest, Robot Framework, Postman, REST API testing, Jenkins, Azure DevOps, Git, SoapUI.\nIndustrial Automation Platforms: Allen-Bradley ControlLogix, Siemens TIA Portal, Siemens S7-1200/1500, Ignition Perspective, FactoryTalk View SE, Siemens WinCC, AVEVA InTouch, DOPSoft.\nManufacturing & Process Validation: MES (Manufacturing Execution System) validation, HMI/SCADA testing, robotic system validation, vision inspection system testing, assembly process verification, commissioning documentation.\nProject & Test Management: JIRA, TestRail, ServiceNow, test plan development, traceability matrices, defect density tracking, test coverage metrics, project lifecycle coordination.\nData & Operational Reporting: SQL-based data validation, OSIsoft PI Historian, OPC UA data validation, historian data verification, OPC UA data validation, operational data verification, test execution reporting.\nEmbedded & Automotive Testing: C/C++ unit testing, CAN bus communication validation, sensor signal validation, firmware regression testing, ECU boundary condition analysis, hardware-in-the-loop validation.\nStandards & Compliance: IEC 61131-3, Agile/Scrum, V-model, TDD, NFPA 70, OSHA compliance, safety interlock validation, quality assurance standards."
+  }
+}
